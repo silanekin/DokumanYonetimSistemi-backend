@@ -1,0 +1,17 @@
+C:\Users\silan\DokumanYonetimSistemi\DokumanSistem.Data\bin\Debug\net8.0\DokumanSistem.Data.deps.json
+C:\Users\silan\DokumanYonetimSistemi\DokumanSistem.Data\bin\Debug\net8.0\DokumanSistem.Data.runtimeconfig.json
+C:\Users\silan\DokumanYonetimSistemi\DokumanSistem.Data\bin\Debug\net8.0\DokumanSistem.Data.dll
+C:\Users\silan\DokumanYonetimSistemi\DokumanSistem.Data\bin\Debug\net8.0\DokumanSistem.Data.pdb
+C:\Users\silan\DokumanYonetimSistemi\DokumanSistem.Data\bin\Debug\net8.0\DokumanSistem.Core.dll
+C:\Users\silan\DokumanYonetimSistemi\DokumanSistem.Data\bin\Debug\net8.0\DokumanSistem.Core.pdb
+C:\Users\silan\DokumanYonetimSistemi\DokumanSistem.Data\obj\Debug\net8.0\DokumanSistem.Data.csproj.AssemblyReference.cache
+C:\Users\silan\DokumanYonetimSistemi\DokumanSistem.Data\obj\Debug\net8.0\DokumanSistem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silan\DokumanYonetimSistemi\DokumanSistem.Data\obj\Debug\net8.0\DokumanSistem.Data.AssemblyInfoInputs.cache
+C:\Users\silan\DokumanYonetimSistemi\DokumanSistem.Data\obj\Debug\net8.0\DokumanSistem.Data.AssemblyInfo.cs
+C:\Users\silan\DokumanYonetimSistemi\DokumanSistem.Data\obj\Debug\net8.0\DokumanSistem.Data.csproj.CoreCompileInputs.cache
+C:\Users\silan\DokumanYonetimSistemi\DokumanSistem.Data\obj\Debug\net8.0\DokumanS.C1BF761B.Up2Date
+C:\Users\silan\DokumanYonetimSistemi\DokumanSistem.Data\obj\Debug\net8.0\DokumanSistem.Data.dll
+C:\Users\silan\DokumanYonetimSistemi\DokumanSistem.Data\obj\Debug\net8.0\refint\DokumanSistem.Data.dll
+C:\Users\silan\DokumanYonetimSistemi\DokumanSistem.Data\obj\Debug\net8.0\DokumanSistem.Data.pdb
+C:\Users\silan\DokumanYonetimSistemi\DokumanSistem.Data\obj\Debug\net8.0\DokumanSistem.Data.genruntimeconfig.cache
+C:\Users\silan\DokumanYonetimSistemi\DokumanSistem.Data\obj\Debug\net8.0\ref\DokumanSistem.Data.dll

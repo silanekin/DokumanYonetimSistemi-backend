@@ -1,0 +1,18 @@
+﻿@@model dokumansistem.ViewModels.RegisterViewModel
+
+<h2>Kayıt Ol</h2>
+<form method="post">
+    <div>
+        <label>Email:</label>
+        <input asp-for="Email" />
+    </div>
+    <div>
+        <label>Şifre:</label>
+        <input asp-for="Password" type="password" />
+    </div>
+    <div>
+        <label>Şifre (Tekrar):</label>
+        <input asp-for="ConfirmPassword" type="password" />
+    </div>
+    <button type="submit">Kayıt Ol</button>
+</form>

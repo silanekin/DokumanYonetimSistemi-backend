@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumanyonetimsistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumanyonetimsistemi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumanyonetimsistemi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumanyonetimsistemi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumanyonetimsistemi\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|solutionrelative:repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumanyonetimsistemi\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumanyonetimsistemi\\migrations\\user\\usercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|solutionrelative:migrations\\user\\usercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Migrations\\User\\20250213113505_User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\User\\20250213113505_User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumanyonetimsistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumanyonetimsistemi\\datamodels\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|solutionrelative:datamodels\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumanyonetimsistemi\\repositories\\sqluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|solutionrelative:repositories\\sqluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumanyonetimsistemi\\datamodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|solutionrelative:datamodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumanyonetimsistemi\\datamodels\\systemadmincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|solutionrelative:datamodels\\systemadmincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumanyonetimsistemi\\migrations\\systemadmincontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|solutionrelative:migrations\\systemadmincontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumanyonetimsistemi\\profiles\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|solutionrelative:profiles\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumanyonetimsistemi\\domainmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|solutionrelative:domainmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumanyonetimsistemi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumanyonetimsistemi\\migrations\\20250212201746_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881F6449-7152-4F73-A2E1-D851D5FE0BB4}|DokumanYonetimSistemi.csproj|solutionrelative:migrations\\20250212201746_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\obj\\DokumanYonetimSistemi.csproj.EntityFrameworkCore.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\DokumanYonetimSistemi.csproj.EntityFrameworkCore.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:13:16.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T12:15:48.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:00:27.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T07:58:00.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Repositories\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsersRepository.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Repositories\\UsersRepository.cs",
+              "RelativeToolTip": "Repositories\\UsersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:46:44.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T07:50:18.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Migrations\\User\\UserContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\User\\UserContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Migrations\\User\\UserContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\User\\UserContextModelSnapshot.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:35:24.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250213113505_User.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Migrations\\User\\20250213113505_User.cs",
+              "RelativeDocumentMoniker": "Migrations\\User\\20250213113505_User.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Migrations\\User\\20250213113505_User.cs",
+              "RelativeToolTip": "Migrations\\User\\20250213113505_User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:35:05.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T19:57:48.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\DataModels\\UserContext.cs",
+              "RelativeDocumentMoniker": "DataModels\\UserContext.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\DataModels\\UserContext.cs",
+              "RelativeToolTip": "DataModels\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:23:17.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SqlUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Repositories\\SqlUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\SqlUserRepository.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Repositories\\SqlUserRepository.cs",
+              "RelativeToolTip": "Repositories\\SqlUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T07:51:53.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\DataModels\\User.cs",
+              "RelativeDocumentMoniker": "DataModels\\User.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\DataModels\\User.cs",
+              "RelativeToolTip": "DataModels\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:56:08.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SystemAdminContext.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\DataModels\\SystemAdminContext.cs",
+              "RelativeDocumentMoniker": "DataModels\\SystemAdminContext.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\DataModels\\SystemAdminContext.cs",
+              "RelativeToolTip": "DataModels\\SystemAdminContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:35:47.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SystemAdminContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Migrations\\SystemAdminContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\SystemAdminContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Migrations\\SystemAdminContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\SystemAdminContextModelSnapshot.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:19:02.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Profiles\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Profiles\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Profiles\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Profiles\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:51:29.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\DomainModels\\User.cs",
+              "RelativeDocumentMoniker": "DomainModels\\User.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\DomainModels\\User.cs",
+              "RelativeToolTip": "DomainModels\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:25:08.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T07:56:51.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DokumanYonetimSistemi.csproj.EntityFrameworkCore.targets",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\obj\\DokumanYonetimSistemi.csproj.EntityFrameworkCore.targets",
+              "RelativeDocumentMoniker": "obj\\DokumanYonetimSistemi.csproj.EntityFrameworkCore.targets",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\obj\\DokumanYonetimSistemi.csproj.EntityFrameworkCore.targets",
+              "RelativeToolTip": "obj\\DokumanYonetimSistemi.csproj.EntityFrameworkCore.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-12T20:31:20.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250212201746_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Migrations\\20250212201746_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250212201746_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanYonetimSistemi\\Migrations\\20250212201746_InitialMigration.cs",
+              "RelativeToolTip": "Migrations\\20250212201746_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:18:37.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+﻿@using DokumanYonetimSistemi.DataModels
+@model List<User>
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">FirstName</th>
+            <th scope="col">LastName</th>
+            <th scope="col">Title</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@item.FirstName</td>
+            <td>@item.LastName</td>
+            <td>@item.Title</td>
+                <td>
+                    <a asp-controller="Home" asp-action="Edit" asp-route-id="@item.Id">Update</a>
+                    <a asp-controller="Home" asp-action="Edit" asp-route-id="@item.Id">Delete</a>
+                </td>
+        </tr>
+        }
+       
+    </tbody>
+</table>

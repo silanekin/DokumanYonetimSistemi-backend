@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silan\\DokumanYonetimSistemi\\dokumansistem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF429A0-BDAD-42BD-850D-901A344A6488}|..\\DokumanSistem.Core\\DokumanSistem.Core.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumansistem.core\\models\\dto\\indexfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611DCF05-CF52-484E-B5EB-9620DE2BB8EF}|..\\DokumanSistem.API\\DokumanSistem.API.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumansistem.api\\usercategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A4AAC3-F5EA-4367-9641-5519D0E36FC1}|dokumansistem.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumansistem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A4AAC3-F5EA-4367-9641-5519D0E36FC1}|dokumansistem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF429A0-BDAD-42BD-850D-901A344A6488}|..\\DokumanSistem.Core\\DokumanSistem.Core.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumansistem.core\\models\\dto\\createcategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611DCF05-CF52-484E-B5EB-9620DE2BB8EF}|..\\DokumanSistem.API\\DokumanSistem.API.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumansistem.api\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238230FE-BAB0-4A45-926A-C5CA699A4533}|..\\DokumanSistem.Data\\DokumanSistem.Data.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumansistem.data\\documentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF429A0-BDAD-42BD-850D-901A344A6488}|..\\DokumanSistem.Core\\DokumanSistem.Core.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumansistem.core\\models\\dto\\documentfilterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF429A0-BDAD-42BD-850D-901A344A6488}|..\\DokumanSistem.Core\\DokumanSistem.Core.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumansistem.core\\models\\dto\\assigncategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF429A0-BDAD-42BD-850D-901A344A6488}|..\\DokumanSistem.Core\\DokumanSistem.Core.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumansistem.core\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF429A0-BDAD-42BD-850D-901A344A6488}|..\\DokumanSistem.Core\\DokumanSistem.Core.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumansistem.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF429A0-BDAD-42BD-850D-901A344A6488}|..\\DokumanSistem.Core\\DokumanSistem.Core.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumansistem.core\\models\\dto\\uploaddocumentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF429A0-BDAD-42BD-850D-901A344A6488}|..\\DokumanSistem.Core\\DokumanSistem.Core.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumansistem.core\\models\\usercategorylink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF429A0-BDAD-42BD-850D-901A344A6488}|..\\DokumanSistem.Core\\DokumanSistem.Core.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumansistem.core\\models\\documentindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF429A0-BDAD-42BD-850D-901A344A6488}|..\\DokumanSistem.Core\\DokumanSistem.Core.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumansistem.core\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF429A0-BDAD-42BD-850D-901A344A6488}|..\\DokumanSistem.Core\\DokumanSistem.Core.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumansistem.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A4AAC3-F5EA-4367-9641-5519D0E36FC1}|dokumansistem.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumansistem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27A4AAC3-F5EA-4367-9641-5519D0E36FC1}|dokumansistem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238230FE-BAB0-4A45-926A-C5CA699A4533}|..\\DokumanSistem.Data\\DokumanSistem.Data.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumansistem.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A4AAC3-F5EA-4367-9641-5519D0E36FC1}|dokumansistem.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumansistem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A4AAC3-F5EA-4367-9641-5519D0E36FC1}|dokumansistem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A4AAC3-F5EA-4367-9641-5519D0E36FC1}|dokumansistem.csproj|c:\\users\\silan\\dokumanyonetimsistemi\\dokumansistem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27A4AAC3-F5EA-4367-9641-5519D0E36FC1}|dokumansistem.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\dokumansistem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\dokumansistem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:38:02.725Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IndexField.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\DTO\\IndexField.cs",
+              "RelativeDocumentMoniker": "..\\DokumanSistem.Core\\Models\\DTO\\IndexField.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\DTO\\IndexField.cs",
+              "RelativeToolTip": "..\\DokumanSistem.Core\\Models\\DTO\\IndexField.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:27:16.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.API\\UserCategoryController.cs",
+              "RelativeDocumentMoniker": "..\\DokumanSistem.API\\UserCategoryController.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.API\\UserCategoryController.cs",
+              "RelativeToolTip": "..\\DokumanSistem.API\\UserCategoryController.cs",
+              "ViewState": "AgIAAKwBAAAAAAAAAAAAwKoBAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:36:43.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateCategoryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\DTO\\CreateCategoryRequest.cs",
+              "RelativeDocumentMoniker": "..\\DokumanSistem.Core\\Models\\DTO\\CreateCategoryRequest.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\DTO\\CreateCategoryRequest.cs",
+              "RelativeToolTip": "..\\DokumanSistem.Core\\Models\\DTO\\CreateCategoryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:10:12.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssignCategoryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\DTO\\AssignCategoryRequest.cs",
+              "RelativeDocumentMoniker": "..\\DokumanSistem.Core\\Models\\DTO\\AssignCategoryRequest.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\DTO\\AssignCategoryRequest.cs",
+              "RelativeToolTip": "..\\DokumanSistem.Core\\Models\\DTO\\AssignCategoryRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:11:50.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DocumentFilterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\DTO\\DocumentFilterRequest.cs",
+              "RelativeDocumentMoniker": "..\\DokumanSistem.Core\\Models\\DTO\\DocumentFilterRequest.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\DTO\\DocumentFilterRequest.cs",
+              "RelativeToolTip": "..\\DokumanSistem.Core\\Models\\DTO\\DocumentFilterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:25:07.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocumentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Data\\DocumentDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DokumanSistem.Data\\DocumentDbContext.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Data\\DocumentDbContext.cs",
+              "RelativeToolTip": "..\\DokumanSistem.Data\\DocumentDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:39:01.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.API\\UserController.cs",
+              "RelativeDocumentMoniker": "..\\DokumanSistem.API\\UserController.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.API\\UserController.cs",
+              "RelativeToolTip": "..\\DokumanSistem.API\\UserController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAASwHgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:41:02.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "..\\DokumanSistem.Core\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\LoginModel.cs",
+              "RelativeToolTip": "..\\DokumanSistem.Core\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:36:45.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\DokumanSistem.Core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\User.cs",
+              "RelativeToolTip": "..\\DokumanSistem.Core\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:36:13.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "..\\DokumanSistem.Core\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\Category.cs",
+              "RelativeToolTip": "..\\DokumanSistem.Core\\Models\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:11:47.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UploadDocumentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\DTO\\UploadDocumentRequest.cs",
+              "RelativeDocumentMoniker": "..\\DokumanSistem.Core\\Models\\DTO\\UploadDocumentRequest.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\DTO\\UploadDocumentRequest.cs",
+              "RelativeToolTip": "..\\DokumanSistem.Core\\Models\\DTO\\UploadDocumentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:33:41.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "..\\DokumanSistem.Core\\Models\\Document.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\Document.cs",
+              "RelativeToolTip": "..\\DokumanSistem.Core\\Models\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:43:26.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DocumentIndex.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\DocumentIndex.cs",
+              "RelativeDocumentMoniker": "..\\DokumanSistem.Core\\Models\\DocumentIndex.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\DocumentIndex.cs",
+              "RelativeToolTip": "..\\DokumanSistem.Core\\Models\\DocumentIndex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T10:43:26.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserCategoryLink.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\UserCategoryLink.cs",
+              "RelativeDocumentMoniker": "..\\DokumanSistem.Core\\Models\\UserCategoryLink.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Core\\Models\\UserCategoryLink.cs",
+              "RelativeToolTip": "..\\DokumanSistem.Core\\Models\\UserCategoryLink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:40:21.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\dokumansistem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\dokumansistem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T12:01:03.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\DokumanSistem.Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\DokumanSistem.Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\DokumanSistem.Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAIBJwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:41:38.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\dokumansistem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\dokumansistem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:40:41.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\silan\\DokumanYonetimSistemi\\dokumansistem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\silan\\DokumanYonetimSistemi\\dokumansistem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T11:27:49.905Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

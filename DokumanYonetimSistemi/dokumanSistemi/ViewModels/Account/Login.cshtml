@@ -1,0 +1,18 @@
+﻿@@model dokumansistem.ViewModels.LoginViewModel
+
+<h2>Giriş Yap</h2>
+<form method="post">
+    <div>
+        <label>Email:</label>
+        <input asp-for="Email" />
+    </div>
+    <div>
+        <label>Şifre:</label>
+        <input asp-for="Password" type="password" />
+    </div>
+    <div>
+        <input asp-for="RememberMe" type="checkbox" />
+        <label for="RememberMe">Beni Hatırla</label>
+    </div>
+    <button type="submit">Giriş Yap</button>
+</form>

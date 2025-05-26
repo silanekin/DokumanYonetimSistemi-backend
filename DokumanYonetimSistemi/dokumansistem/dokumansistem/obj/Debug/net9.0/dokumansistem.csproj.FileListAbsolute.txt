@@ -1,0 +1,5 @@
+C:\Users\silan\DokumanYonetimSistemi\dokumansistem\dokumansistem\obj\Debug\net9.0\dokumansistem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silan\DokumanYonetimSistemi\dokumansistem\dokumansistem\obj\Debug\net9.0\dokumansistem.AssemblyInfoInputs.cache
+C:\Users\silan\DokumanYonetimSistemi\dokumansistem\dokumansistem\obj\Debug\net9.0\dokumansistem.AssemblyInfo.cs
+C:\Users\silan\DokumanYonetimSistemi\dokumansistem\dokumansistem\obj\Debug\net9.0\dokumansistem.csproj.CoreCompileInputs.cache
+C:\Users\silan\DokumanYonetimSistemi\dokumansistem\dokumansistem\obj\Debug\net9.0\dokumansistem.MvcApplicationPartsAssemblyInfo.cache

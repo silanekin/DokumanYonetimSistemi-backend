@@ -1,0 +1,22 @@
+﻿@model DokumanSistem.Core.Models.User
+
+<h2>Edit User</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label for="FirstName">First Name</label>
+        <input type="text" id="FirstName" name="FirstName" class="form-control" value="@Model.FirstName" required />
+    </div>
+
+    <div class="form-group">
+        <label for="LastName">Last Name</label>
+        <input type="text" id="LastName" name="LastName" class="form-control" value="@Model.LastName" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Title">Title</label>
+        <input type="text" id="Title" name="Title" class="form-control" value="@Model.Title" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+</form>

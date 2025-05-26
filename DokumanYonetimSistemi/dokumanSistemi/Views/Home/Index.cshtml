@@ -1,0 +1,32 @@
+﻿@@using dokumansistem.DataModels
+@model IEnumerable<dokumansistem.Models.User>
+
+<h1>Users</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Title</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.FirstName</td>
+                <td>@user.LastName</td>
+                <td>@user.Title</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Home", new { userId = user.userId })">Edit</a> |
+                    <a href="@Url.Action("Delete", "Home", new { userId = user.userId })" onclick="return confirm('Bu kullanıcıyı silmek istediğinizden emin misiniz');">Delete</a>
+                
+                 </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create")">Create New User</a>
